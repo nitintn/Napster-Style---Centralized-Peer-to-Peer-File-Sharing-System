@@ -1,19 +1,7 @@
- 
-
-Nitin T Narayanan, Dhruv Mehta 
-
-A20364483, A20365734 
-
-Programming Assignment 1 
-
- 
-
 A SIMPLE NAPSTER 
 STYLE PEER TO PEER 
 FILE SHARING SYSTEM 
 USER MANUAL 
-
-CS 550 Advanced Operating System 
 
 
 INTRODUCTION: 
@@ -49,32 +37,11 @@ o src
 . P2PServer.java 
 . RandomFileGenerator.java 
 
-
-
-
-
-
-
-
-
-
-
 
 . Client 
 . P2PClient.java 
 . PeerFileDownload.java 
 
-
-
-
-
-
-
-
-
-
-
- 
 
 Before RUN: 
 
