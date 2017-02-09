@@ -26,23 +26,6 @@ holds that file. The peer list is obtained from the Index Sever, the user can pi
 anyone from the list and then the client connects to the peer and gets the file. As a 
 Server, it waits for file requests from other peers and sends the requested file. 
 
-Implementation’s File Structure: 
-
-Folder Name: 01_GROUP10_PA1.zip 
-
-. sharedFolder 
-. centralized-p2p-system 
-o src 
-. server 
-. P2PServer.java 
-. RandomFileGenerator.java 
-
-
-. Client 
-. P2PClient.java 
-. PeerFileDownload.java 
-
-
 Before RUN: 
 
 1. Edit P2PClient.java file, to change the path according to your system, because 
@@ -58,9 +41,6 @@ c. Edit PeerFileDownload.java file, to change the path here because it is
 the path where the shared folder and its file will be present for the other 
 peer to download from the instructions are mentioned in the comments 
 as well. 
-
-
-
 
 
 HOW TO RUN: 
